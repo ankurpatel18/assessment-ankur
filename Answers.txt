@@ -1,0 +1,17 @@
+Answers: 
+
+Assesement1: See "Assessment1.jpg", "Assessment1-Groups.jpg" and "Assessment1-users.jpg"
+Assesement2: See "Assessment2.jpg", "Assessment2_CustomTYPE.jpg"
+Assessment3: See "Assessment3.jpg", "Assessment3_code.jpg"
+Assessment4: Not able to work
+
+Bonus:
+1) When we created the new group channel the channnel is empty. so it is not visible without sending a message.
+
+2) while fetching the list of group channels we are set the query property called "includeEmpty" to FALSE.to display empty channel in list we have to set that value to TRUE
+
+Ex. this.groupChannelQuery.includeEmpty = true;
+
+3) Not able to work 
+
+4) See "Bonus4_u4.jpg", "Bonus4_b4.jpg", "Bonus4_b4_message.jpg" and "Bonus4_b4_message_in_browser.jpg"
